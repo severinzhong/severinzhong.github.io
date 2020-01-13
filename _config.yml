@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Severin Blog
-  tagline: test
+  tagline: Life is like an onion ~
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
