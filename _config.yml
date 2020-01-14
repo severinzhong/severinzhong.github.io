@@ -16,17 +16,17 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Severin Blog
-  tagline: Life is like an onion ~
+  title: "Severin Blog"
+  tagline: "Life is like an onion ~"
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
   showPicker: false
 
   # generate social links in footer
-   social_links:
+  # social_links:
   #  twitter: thelehhman
-    github:  severinzhong
+  #  github:  severinzhong
   #  linkedIn: in/thelehhman
   #  rss: rss
  
